@@ -1,12 +1,17 @@
 .DS_Store
-node_modules/
-/dist/
+ttshop-client/node_modules/
+ttshop-server_final/node_modules/
+ttshop-client/dist/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 /test/unit/coverage/
 /test/e2e/reports/
 selenium-debug.log
+readme.xmind
+ttshop-client/.git
+
+
 
 # Editor directories and files
 .idea
