@@ -17,7 +17,7 @@
 
 ## 简介
 
-> ![外卖项目总览](D:\研究生课程\7.第三学期-冬\项目\1.硅谷外卖\xiangmu\ttshop-client\static\res\外卖项目总览.png)
+> ![外卖项目总览](./ttshop-client/static/res/外卖项目总览.png)
 
 ## 后端（nodejs）
 
@@ -57,37 +57,37 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 ## 截图
 
-<video src="D:\研究生课程\7.第三学期-冬\项目\1.硅谷外卖\xiangmu\ttshop-client\static\res\Video_2021-07-12_155104.wmv" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
+<video src="./ttshop-client/static/res/Video_2021-07-12_155104.wmv" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
 
-![项目演示](D:\研究生课程\7.第三学期-冬\项目\1.硅谷外卖\xiangmu\ttshop-client\static\res\项目演示.gif)
+![项目演示](./ttshop-client/static/res/项目演示.gif)
 
 ## 细节
 
-![外卖项目-App页面组件分析](D:\研究生课程\7.第三学期-冬\项目\1.硅谷外卖\xiangmu\ttshop-client\static\res\外卖项目-App页面组件分析.png)
+![外卖项目-App页面组件分析](./ttshop-client/static/res/外卖项目-App页面组件分析.png)
 
 ​	
 
-![外卖项目-Shop页面分析](D:\研究生课程\7.第三学期-冬\项目\1.硅谷外卖\xiangmu\ttshop-client\static\res\外卖项目-Shop页面分析.png)
+![外卖项目-Shop页面分析](./ttshop-client/static/res/外卖项目-Shop页面分析.png)
 
 
 
-![外卖项目-search页面组件分析](D:\研究生课程\7.第三学期-冬\项目\1.硅谷外卖\xiangmu\ttshop-client\static\res\外卖项目-search页面组件分析.png)
+![外卖项目-search页面组件分析](./ttshop-client/static/res/外卖项目-search页面组件分析.png)
 
 
 
-![外卖项目-Order页面组件分析](D:\研究生课程\7.第三学期-冬\项目\1.硅谷外卖\xiangmu\ttshop-client\static\res\外卖项目-Order页面组件分析.png)
-
-
-
-
-
-![外卖项目-Profile页面组件分析](D:\研究生课程\7.第三学期-冬\项目\1.硅谷外卖\xiangmu\ttshop-client\static\res\外卖项目-Profile页面组件分析.png)
+![外卖项目-Order页面组件分析](./ttshop-client/static/res/外卖项目-Order页面组件分析.png)
 
 
 
 
 
-![外卖项目-Login页面组件分析](D:\研究生课程\7.第三学期-冬\项目\1.硅谷外卖\xiangmu\ttshop-client\static\res\外卖项目-Login页面组件分析.png)
+![外卖项目-Profile页面组件分析](./ttshop-client/static/res/外卖项目-Profile页面组件分析.png)
+
+
+
+
+
+![外卖项目-Login页面组件分析](./ttshop-client/static/res/外卖项目-Login页面组件分析.png)
 
 
 
