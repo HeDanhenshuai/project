@@ -32,10 +32,10 @@ npm install
 #Turn on the back end service （在后端目录ttshop-server_final下开启后端服务）
 npm start
 
-# serve with hot reload at localhost:8080（在前端根目ttshop-client/config/index.js可以查看相关配置，开发环境运行）
+# serve with hot reload at localhost:8080（在前端根目录ttshop-client/config/index.js可以查看相关配置，在前端根目录ttshop-client开发环境运行）
 npm run dev
 
-# build for production with minification（生产环境运行）
+# build for production with minification（在前端根目录ttshop-client生产环境运行）
 npm run build
 
 # build for production and view the bundle analyzer report
